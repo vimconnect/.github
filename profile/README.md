@@ -22,7 +22,7 @@
 ## The Vim Connect developer platform
 
 Vim is the middleware platform for healthcare. **Vim Connect** is Vim's in-EHR connectivity
-layer, and the **Vim App SDK** ([`@vimconnect/app-sdk`](https://www.npmjs.com/package/@vimconnect/app-sdk))
+layer, and the **Vim Connect SDK** ([`@vimconnect/app-sdk`](https://www.npmjs.com/package/@vimconnect/app-sdk))
 lets you build applications that run *inside* Electronic Health Record (EHR) systems. Your app
 appears as a sidebar in the provider's EHR — the **Vim Hub** — with real-time access to patient
 data, encounters, referrals, and orders, and the ability to write back to the chart.
