@@ -126,9 +126,11 @@ generated entity, event, and method catalog. See
 | Repo | What it is |
 | --- | --- |
 | [vim-demo-app](https://github.com/vimconnect/vim-demo-app) | The reference Vim Connect app — OAuth, SDK init, and the SDK Explorer. Use it as a template. |
+| [vim-demo-app-2](https://github.com/vimconnect/vim-demo-app-2) | A React + Vite app with Cloudflare Pages Functions for auth that reads patient, encounter, referral, and order data and writes encounter and referral edits back. Start here for a single-page app with serverless auth or a worked example of form-based writeback. |
+| [vim-ai-scribe-demo-app](https://github.com/vimconnect/vim-ai-scribe-demo-app) | An AI scribe: records the visit through the microphone and writes the SOAP note, ICD-10, and CPT codes back to the encounter (transcription is simulated). Start here for documentation or ambient-listening apps. |
 
-More samples are on the way. Building on the previous SDK? Those examples live in the
-[getvim](https://github.com/getvim) organization.
+Not sure which to pick? Start with vim-demo-app — it covers the full SDK. Building on the previous
+SDK? Those examples live in the [getvim](https://github.com/getvim) organization.
 
 ## 📚 Documentation
 
